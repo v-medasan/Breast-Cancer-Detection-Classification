@@ -2,7 +2,7 @@
 
 # Dataset
 
-The dataset for this project was obtained from the UC Irvine Machine Learning Repository and can be found [here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29).
+The dataset for this project was obtained from the UC Irvine Machine Learning Repository and can be found [here](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29).
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 
 ## Attribute Information
